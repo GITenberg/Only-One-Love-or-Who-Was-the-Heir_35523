@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3498
     wikipedia: http://en.wikipedia.org/wiki/Charles_Garvice
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35523#Only-One-Love-or-Who-Was-the-Heir
 gutenberg_issued: '2011-03-09'
 gutenberg_type: Text
 identifiers:
